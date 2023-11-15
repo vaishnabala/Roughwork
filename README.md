@@ -4,7 +4,7 @@
 
 ## Table of Contents
 * [It has a ppt]
-* [It has a ipynb file](#technologies-used)
+* [It has an ipynb file](#technologies-used)
 
 
 ## General Information
